@@ -1,0 +1,11 @@
+# Very long link that serves the home page while keeping the long URL in the address bar.
+# The space in the path is covered both literally and URL-encoded (%20).
+[[redirects]]
+  from = "/nfrjerwgiuwioru4893290238t6urojpiqglj38oqifj3q4ju198tu94tueiurhioqu430yt048y320t8y5t284389 trgiuerwhgiwuehrgiouhgwoieughoiweurghoieurgweugheroighwoieghroighowieughriuw"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/nfrjerwgiuwioru4893290238t6urojpiqglj38oqifj3q4ju198tu94tueiurhioqu430yt048y320t8y5t284389%20trgiuerwhgiwuehrgiouhgwoieughoiweurghoieurgweugheroighwoieghroighowieughriuw"
+  to = "/index.html"
+  status = 200
